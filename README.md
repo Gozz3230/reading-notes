@@ -9,7 +9,7 @@ Growth mindset is something that is becoming mandatory in most professions as we
 
 * Knowledge is _infinite_
   * New is **_interesting_**
-  * > "The more you **know**, the more you know you **don't** know."
+    * > "The more you **know**, the more you know you **don't** know."
 
 
 [Link to my github portfolio](https://github.com/Gozz3230)
