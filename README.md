@@ -11,4 +11,4 @@ Growth mindset is something that is becoming mandatory in most professions as we
 - The more you **know**, the more you know you **don't** know
 - New is **_interesting_**
 
-Link to my github portfolio: https://github.com/Gozz3230
+[Link to my github portfolio](https://github.com/Gozz3230)
