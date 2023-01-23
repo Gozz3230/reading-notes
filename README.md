@@ -5,7 +5,7 @@ My name is Ryan
 
 Growth mindset means
 
-Reminders to stay in a growth mindset
+## Reminders to stay in a growth mindset
 
 - Reminder 1
 - Reminder 2
