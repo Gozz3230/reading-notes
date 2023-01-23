@@ -13,4 +13,4 @@ Growth mindset is something that is becoming mandatory in most professions as we
 
 [Link to my github portfolio](https://github.com/Gozz3230)
 
-![The Milky Way](https://en.wikipedia.org/wiki/File:ESO-VLT-Laser-phot-33a-07.jpg)
+![The Milky Way](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/UGC_12158.jpg/330px-UGC_12158.jpg)
