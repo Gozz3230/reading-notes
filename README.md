@@ -20,51 +20,51 @@ My reading journal for Code Fellows
 
 ### Code 102
 
-[Read: 01](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2001.md)
+[Read: 01](102-reading-notes/Read01.md)
 
-[Read: 02](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2002.md)
+[Read: 02](102-reading-notes/Read02.md)
 
-[Read: 03](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2003.md)
+[Read: 03](102-reading-notes/Read03.md)
 
-[Read: 04](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2004.md)
+[Read: 04](102-reading-notes/Read04.md)
 
-[Read: 05](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2005.md)
+[Read: 05](102-reading-notes/Read05.md)
 
 
-[Read: 06](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2006.md)
+[Read: 06](102-reading-notes/Read06.md)
 
-[Read: 07](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2007.md)
+[Read: 07](102-reading-notes/Read07.md)
 
-[Read: 08](https://github.com/Gozz3230/reading-notes/blob/main/102-reading-notes/Read:%2008.md)
+[Read: 08](102-reading-notes/Read08.md)
 
 ### Code 201
 
-[Read: 01](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2001.md)
+[Read: 01](201-reading-notes/Read01.md)
 
-[Read: 02](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2002.md)
+[Read: 02](201-reading-notes/Read02.md)
 
-[Read: 03](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2003.md)
+[Read: 03](201-reading-notes/Read03.md)
 
-[Read: 04](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2004.md)
+[Read: 04](201-reading-notes/Read04.md)
 
-[Read: 05](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2005.md)
+[Read: 05](201-reading-notes/Read05.md)
 
-[Read: 06](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2006.md)
+[Read: 06](201-reading-notes/Read06.md)
 
-[Read: 07](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2007.md)
+[Read: 07](201-reading-notes/Read07.md)
 
-[Read: 08](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2008.md)
+[Read: 08](201-reading-notes/Read08.md)
 
-[Read: 09](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2009.md)
+[Read: 09](201-reading-notes/Read09.md)
 
-[Read: 10](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2010.md)
+[Read: 10](201-reading-notes/Read10.md)
 
-[Read: 11](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2011.md)
+[Read: 11](201-reading-notes/Read11.md)
 
-[Read: 12](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2012.md)
+[Read: 12](201-reading-notes/Read12.md)
 
-[Read: 13](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2013.md)
+[Read: 13](201-reading-notes/Read13.md)
 
-[Read: 14](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2014.md)
+[Read: 14](201-reading-notes/Read14.md)
 
-[Read: 15](https://github.com/Gozz3230/reading-notes/blob/main/201-reading-notes/Read:%2015.md)
+[Read: 15](201-reading-notes/Read15.md)
