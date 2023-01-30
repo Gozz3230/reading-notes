@@ -1,4 +1,4 @@
-###Assigning to Properties:
+### Assigning to Properties:
 
 ```
 const obj = {};
@@ -25,5 +25,5 @@ Chaining assignments or nesting assignment can result in behavior that is unexpe
 x.x.x.x  each x is 8 bits. 1 is on and 0 is off. if all 8 bits are on it is as such: 11111111 which is equal to the numberic value of 255.
  If this confuses you, don't worry about it. But if you are familiar with this, it may help in your understanding. 
 
- 
+
 
