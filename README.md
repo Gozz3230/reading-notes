@@ -18,7 +18,7 @@ My reading journal for Code Fellows
 
 ## Table of Contents
 
-### Code 102
+## Code 102
 
 [Read: 01](102-reading-notes/Read01.md)
 
@@ -37,7 +37,7 @@ My reading journal for Code Fellows
 
 [Read: 08](102-reading-notes/Read08.md)
 
-### Code 201
+## Code 201
 
 [Read: 01](201-reading-notes/Read01.md)
 
@@ -68,3 +68,48 @@ My reading journal for Code Fellows
 [Read: 14](201-reading-notes/Read14.md)
 
 [Read: 15](201-reading-notes/Read15.md)
+
+## Code 301
+
+[Read: 01](301-reading-notes/Read01.md)
+
+[Read: 02](301-reading-notes/Read02.md)
+
+[Read: 03](301-reading-notes/Read03.md)
+
+[Read: 04](301-reading-notes/Read04.md)
+
+[Read: 05](301-reading-notes/Read05.md)
+
+[Read: 06](301-reading-notes/Read06.md)
+
+[Read: 07](301-reading-notes/Read07.md)
+
+[Read: 08](301-reading-notes/Read08.md)
+
+[Read: 09](301-reading-notes/Read09.md)
+
+[Read: 10](301-reading-notes/Read10.md)
+
+## Code 401
+
+[Read: 01](401-reading-notes/Read01.md)
+
+[Read: 02](401-reading-notes/Read02.md)
+
+[Read: 03](401-reading-notes/Read03.md)
+
+[Read: 04](401-reading-notes/Read04.md)
+
+[Read: 05](401-reading-notes/Read05.md)
+
+[Read: 06](401-reading-notes/Read06.md)
+
+[Read: 07](401-reading-notes/Read07.md)
+
+[Read: 08](401-reading-notes/Read08.md)
+
+[Read: 09](401-reading-notes/Read09.md)
+
+[Read: 10](401-reading-notes/Read10.md)
+
