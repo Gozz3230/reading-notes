@@ -35,4 +35,3 @@ Example
 Variables are a big deal in JavaScript because they store values. These values can then be called upon. Without them you couldn't do anything dynamic!
 
 Just remember that JavaScript is case-sensitive.
-
